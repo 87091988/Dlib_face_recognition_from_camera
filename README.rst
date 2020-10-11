@@ -1,3 +1,6 @@
+pip install boost
+pip install cmake
+
 Face recognition from camera with Dlib
 ######################################
 
